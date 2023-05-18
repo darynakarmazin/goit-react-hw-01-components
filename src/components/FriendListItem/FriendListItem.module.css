@@ -1,3 +1,13 @@
+.item {
+  display: flex;
+  gap: 24px;
+  padding: 10px 25px;
+  align-items: center;
+  border: 1px black solid;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
 .status {
   display: block;
   width: 20px;
